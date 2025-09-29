@@ -21,7 +21,7 @@ Hover your mouse over a piece of debris to display a graph showing how the amoun
 ---
 
 ## 🛠 Requirements
-- [Processing](https://processing.org/) (version 3.x or 4.x)
+- [Processing](https://processing.org/) (version 4.x)
 - [Grafica library](https://github.com/jagracar/grafica)  
   Install via Processing:
   - Go to **Sketch → Import Library → Add Library…**
